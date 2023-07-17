@@ -19,7 +19,7 @@ public class Column_Sum {
 				sum+=array[i][j];
 			}
 			column_sum[j]=sum;
-			System.out.println(sum);
+		//	System.out.println(sum);
 			
 		}
 		System.out.println(Arrays.toString(column_sum));
